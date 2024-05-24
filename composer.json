@@ -2,6 +2,7 @@
     "name": "wpai-inc/anthropic-sdk-php",
     "description": "This library provides convenient access to the Anthropic REST API from server-side PHP",
     "type": "library",
+    "version": "0.1.1",
     "require": {
         "php": "^8.0",
         "guzzlehttp/guzzle": "^7.8"
